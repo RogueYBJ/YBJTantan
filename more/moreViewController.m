@@ -10,6 +10,8 @@
 
 #import "moreView.h"
 
+//设置需要的位置（可自行设置）
+
 #define baseFrame Frame(38,Height_NavBar + YBJ_ScreenW6(25),300,425)
 
 #define Frame1 Frame(0,0,300,400)
